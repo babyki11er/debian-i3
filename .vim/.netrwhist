@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/linn8/Desktop/www/note'
+let g:netrw_dirhist_2='/home/linn8/Desktop/www/note/class'
+let g:netrw_dirhist_1='/home/linn8/Desktop/www/note'
